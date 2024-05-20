@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+.gradiant-text {
+  background: linear-gradient(177deg, #3398DB, #8E43AD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.barCompleted {
+  background: linear-gradient(177deg, #3398DB, #8E43AD);
+  width:90%;
+}
